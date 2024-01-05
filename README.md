@@ -5,6 +5,8 @@
 
 ## 🚀 About Me
 I'm a computer science student 
+https://badges.pufler.dev/visits/{Jeremia}/
+
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/jeremiaxavier/home)
