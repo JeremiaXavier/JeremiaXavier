@@ -26,7 +26,7 @@ I'm a computer science student
 </table>
 
 ## 
-
+<img src="https://github-trophies.vercel.app/?username=NebulaTris&theme=onestar&no-frame=true" width="800"/>
 
 🧠 I'm currently learning how to code
 
