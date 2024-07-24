@@ -35,7 +35,8 @@ I'm a computer science student
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, python, django
+Javascript, HTML, CSS,PHP,Mysql,Bootstrap
+
 
 
 
