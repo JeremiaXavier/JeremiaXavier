@@ -4,7 +4,7 @@
 # Hi, I'm Jeremia Xavier! 👋
 
 ## 🚀 About Me
-I'm a computer science student 
+I'm a post graduate computer application student and software developer
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jeremiaxavier.github.io)
@@ -31,7 +31,6 @@ I'm a computer science student
 ## 
 <img src="https://github-trophies.vercel.app/?username=JeremiaXavier&theme=onestar&no-frame=true" width="800"/>
 
-🧠 I'm currently learning how to code
 
 
 ## 🛠 Skills
