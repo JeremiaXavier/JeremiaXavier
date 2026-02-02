@@ -70,11 +70,10 @@ const jeremia = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeremiaXavier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeremiaXavier&theme=tokyonight&hide_border=true)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeremiaXavier&" alt="Jeremia" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiaXavier&layout=compact&theme=tokyonight&hide_border=true)
+
 
 </div>
 
