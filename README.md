@@ -84,7 +84,7 @@ const jeremia = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JeremiaXavier&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+<img src="https://github-trophies.vercel.app/?username=JeremiaXavier&theme=onestar&no-frame=true" width="800"/>
 
 </div>
 
