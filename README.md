@@ -112,7 +112,7 @@ const jeremia = {
 
 ## 💼 Featured Projects
 
-<div align="center">
+<!--<div align="center">
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -123,7 +123,7 @@ const jeremia = {
 </div>
 
 > 💡 **Note:** Check out my [repositories](https://github.com/JeremiaXavier?tab=repositories) for more projects!
-
+-->
 ---
 
 ## 📝 Latest Blog Posts
