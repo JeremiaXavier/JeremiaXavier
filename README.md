@@ -141,7 +141,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeremiaxavier.github.io)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremia-xavier/)
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremiaxavier@zohomail.in)
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
